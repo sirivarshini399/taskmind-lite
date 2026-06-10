@@ -112,4 +112,4 @@ GitHub: https://github.com/sirivarshini399
 
 ## ⭐ If you like this project
 
-Give it a star ⭐
+Give it a star ⭐.
